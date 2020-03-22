@@ -1,3 +1,5 @@
 this is a test
 
-addid one row. now this is a time machine.
+adding one row. now this is a time machine
+
+adding row. now this has intelligence
